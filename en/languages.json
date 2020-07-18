@@ -1,4 +1,6 @@
 {
+  "format": "{{local}} ({{native}})",
+
   "de": "German",
   "en": "English",
   "es": "Spanish",

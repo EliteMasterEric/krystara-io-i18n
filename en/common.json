@@ -1,7 +1,19 @@
 {
   "untranslated": "UNTRANSLATED",
-  "page-home": "Home",
-  "page-events": "Upcoming Events",
-  "page-pvp": "PvP Leaderboard",
-  "page-tasks": "Current Tasks"
+  "development-warning": "WARNING: You are viewing an in-development version of this page.",
+
+  "return-home": "Back to Home",
+
+  "loading": "Loading...",
+
+  "enable-dark": "Enable Dark Theme",
+  "disable-dark": "Disable Dark Theme",
+  "set-platform": "Set Platform",
+  "set-language": "Set Language",
+
+  "license-notice": "All assets from Gems of War are property of Infinity Plus Two and 505 Games.",
+  "copyright-notice": "© 2020 MasterEric.",
+
+  "last-built": "Last built at {{time}}",
+  "last-updated": "Last updated at {{time}}"
 }

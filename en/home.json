@@ -1,5 +1,22 @@
 {
   "page-title": "Eric's GoW Tools",
   "page-desc": "A set of useful tools for Gems of War.",
-  "page-name": "Eric's Gems of War Tools"
+  "page-name": "Eric's Gems of War Tools",
+
+  "page-pvp": "PvP Leaderboard",
+  "page-pvp-desc": "Current PvP standings, updated hourly.",
+  "page-events": "Upcoming Events",
+  "page-events-desc": "Spoilers for scheduled daily, weekend, and weekly events, updated daily.",
+  "page-guild": "Guild Leaderboard",
+  "page-guild-desc": "Current guild standings by trophies or levels, updated hourly.",
+  "page-guildwars": "Guild Wars Brackets",
+  "page-guildwars-desc": "Current Guild Wars brackets and scores, updated daily.",
+  "page-tasks": "Current Tasks",
+  "page-tasks-desc": "Adventure Board and Campaign tasks, updated daily.",
+  "page-assets": "Assets",
+  "page-assets-desc": "Peruse the game's graphics and audio.",
+  "page-soulforge": "Soulforge History",
+  "page-soulforge-desc": "View previous and current Soulforge contents.",
+
+  "translation-note": "These pages were translated through community collaboration."
 }

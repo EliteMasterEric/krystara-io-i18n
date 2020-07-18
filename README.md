@@ -4,7 +4,7 @@ Internationalization and localization for Eric's Gems of War tools.
 
 **[Eric's Gems of War Tools](https://gow-stuff.vercel.app/)**
 
-_[Staging Area](https://gow-stuff-test.vercel.app/_
+_[Staging Area](https://gow-stuff-test.vercel.app/)_
 
 This repository contains information used to allow access to the website in other languages.
 

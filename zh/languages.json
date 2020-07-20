@@ -1,3 +1,5 @@
 {
+  "format": "{{local}} ({{native}})",
+
   "zh": "中文"
 }

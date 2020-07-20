@@ -1,3 +1,27 @@
 {
-  "page-title": "Upcoming Events ({{platform}}) - Eric's GoW Tools"
+  "page-title": "Upcoming Events ({{platform}}) - Eric's GoW Tools",
+  "page-desc": "List of future events in Gems of War, updated daily.",
+
+  "head-name": "Name",
+  "head-start-date": "Start Date",
+  "head-end-date": "End Date",
+  "head-duration": "Duration",
+  "head-troop-pet-class": "Troop/Pet/Class",
+  "head-kingdom": "Kingdom",
+  "head-currency": "Currency",
+  "head-medal": "Medal",
+
+  "event-duration": "{{count}} Day",
+  "event-duration_plural": "{{count}} Days",
+
+  "event-guildwars": "Guild Wars",
+  "event-bounty": "Bounty",
+  "event-vault": "Vault",
+  "event-heroclass": "Hero Class",
+  "event-petrescue": "Pet Rescue",
+  "event-raidboss": "Raid Boss",
+  "event-invasion": "Invasion",
+  "event-factionassault": "Faction Assault",
+  "event-world": "World Event: {{name}}",
+  "event-campaign": "Campaign: {{name}}"
 }

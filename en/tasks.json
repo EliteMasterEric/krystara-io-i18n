@@ -1,3 +1,14 @@
 {
-  "page-title": "Upcoming Tasks ({{platform}}) - Eric's GoW Tools"
+  "page-title": "Current Tasks ({{platform}}) - Eric's GoW Tools",
+  "page-desc": "Adventure Board and Campaign Tasks for Gems of War, updated daily.",
+
+  "adventure-board": "Adventure Board",
+  "adventure-board-battles": "{{count}} Battles in {{kingdom}}",
+
+  "campaign": "Campaign",
+  "campaign-gold": "Gold",
+  "campaign-silver": "Silver",
+  "campaign-bronze": "Bronze",
+
+  "required": " [{{count}} required]"
 }

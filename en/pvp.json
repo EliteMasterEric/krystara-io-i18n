@@ -1,3 +1,18 @@
 {
-  "page-title": "PvP Leaderboard ({{platform}}) - Eric's GoW Tools"
+  "page-title": "PvP Leaderboard ({{platform}}) - Eric's GoW Tools",
+  "page-desc": "Current PvP standings for Gems of War, updated hourly.",
+
+  "event-name": "Event: {{name}}",
+
+  "lb-rank": "Rank",
+  "lb-name": "Name",
+  "lb-guild": "Guild",
+  "lb-score": "Current Score",
+  "lb-wins-weekly": "# Wins (Weekly)",
+  "lb-losses-weekly)": "# Losses (Weekly)",
+  "lb-winrate-weekly)": "Win % (Weekly)",
+  "lb-wins-total)": "# Wins (Total)",
+  "lb-losses-total)": "# Losses (Total)",
+  "lb-winrate-total)": "Win % (Total)",
+  "lb-winstreak": "Win Streak (Record)"
 }

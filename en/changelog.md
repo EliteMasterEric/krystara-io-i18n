@@ -16,12 +16,20 @@ This page documents the major changes that have occurred with Eric's Gems of War
 
 ## Version 2
 
-- Rewrote the app entirely over several days.
+- Rewrote the app entirely over about a week.
 - Now uses MaterialUI for styling, allowing compatibility with mobile.
-- Added Current Tasks view.
-- Added Upcoming Events view.
-- Added dark mode support.
 - Added support for multiple platforms to all existing views.
-- Added prelimiary localization support (for all languages used by the game).
+- Added localization support (for all languages used by the game).
+- Added dark mode theme support.
+- Data fetcher now fetches 5 minutes before reset (to get accurate end-of-day leaderboard data) and 5 minutes after reset (to start recording early).
+- Revamped [PvP Leaderboard](/pvp) view.
+- Added [Current Tasks](/tasks) view.
+- Added [Upcoming Events](/events) view.
+- Added [Guild Leaderboard](/guild) view.
+- Added [Guild Wars Brackets](/guildwars) view.
+- Added **Changelog** view (this one).
+- Added [Privacy Policy](/privacy) view.
+- Improved performance and security using special headers.
 - Preferred dark mode setting, platform, and language now saved to local storage.
-- Created [community localization project]().
+- Added Google Analytics for improved page usage insights. See Privacy Policy for more info.
+- Created [community localization project](https://github.com/MasterEric/gow-stuff-i18n).

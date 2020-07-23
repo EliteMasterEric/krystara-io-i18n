@@ -1,16 +1,32 @@
 {
+  "page-title": "{{name}} - Krystara.io",
+  "page-title-platform": "{{name}} ({{platform}}) - Krystara.io",
+
   "page-pvp": "PvP Leaderboard",
-  "page-pvp-desc": "Current PvP standings, updated hourly.",
+  "page-pvp-blurb": "Current PvP standings, updated hourly.",
+  "page-pvp-desc": "Current PvP standings for Gems of War, updated hourly.",
+
   "page-events": "Upcoming Events",
-  "page-events-desc": "List of future events, updated daily.",
+  "page-events-blurb": "List of future events, updated daily.",
+  "page-events-desc": "List of future events for Gems of War, updated daily.",
+
   "page-tasks": "Current Tasks",
-  "page-tasks-desc": "Adventure Board and Campaign Tasks, updated daily.",
+  "page-tasks-blurb": "Adventure Board and Campaign Tasks, updated daily.",
+  "page-tasks-desc": "Adventure Board and Campaign Tasks for Gems of War, updated daily.",
+
   "page-guild": "Guild Leaderboard",
-  "page-guild-desc": "Current Guild standings by trophies and levels, updated hourly.",
+  "page-guild-blurb": "Current Guild standings by trophies and levels, updated hourly.",
+  "page-guild-desc": "Current Guild standings for Gems of War, sorted by trophies and levels, updated hourly.",
+
   "page-guildwars": "Guild Wars Brackets",
-  "page-guildwars-desc": "Current Guild Wars brackets and scores, updated daily.",
+  "page-guildwars-blurb": "Current Guild Wars brackets and scores, updated daily.",
+  "page-guildwars-desc": "Current Guild Wars brackets and scores for Gems of War, updated hourly.",
+
   "page-soulforge": "Soulforge History",
-  "page-soulforge-desc": "View the current Soulforge rotation, and predict future ones.",
+  "page-soulforge-blurb": "View the current Soulforge rotation, and predict future ones.",
+  "page-soulforge-desc": "View the current Soulforge rotation for Gems of War, and predict future recipes.",
+
   "page-assets": "Assets",
-  "page-assets-desc": "Peruse the game's graphics and audio."
+  "page-assets-blurb": "Peruse the game's graphics and audio.",
+  "page-assets-desc": "Peruse the Gems of War graphics and audio."
 }

@@ -2,9 +2,9 @@
 
 Internationalization and localization for Eric's Gems of War tools.
 
-**[Eric's Gems of War Tools](https://gow-stuff.vercel.app/)**
+**[Krystara.io - Eric's Gems of War Tools](https://www.krystara.io/)**
 
-_[Staging Area](https://gow-stuff-test.vercel.app/)_
+_[Staging Area](https://test.krystara.io/)_
 
 This repository contains information used to allow access to the website in other languages.
 

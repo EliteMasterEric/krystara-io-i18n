@@ -1,6 +1,6 @@
 # Changelog
 
-This page documents the major changes that have occurred with Eric's Gems of War Tools.
+This page documents the major changes that have occurred with Krystara.io.
 
 ## Contents
 

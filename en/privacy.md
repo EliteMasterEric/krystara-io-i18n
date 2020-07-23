@@ -1,6 +1,6 @@
 # Privacy Policy
 
-This page documents how Eric's Gems of War Tools retrieves, stores, and uses data collected from users.
+This page documents how Krystara.io retrieves, stores, and uses data collected from users.
 
 ## Contents
 
@@ -9,7 +9,7 @@ This page documents how Eric's Gems of War Tools retrieves, stores, and uses dat
 
 ## Browser Cookies
 
-Eric's Gems of War Tools includes options to select a page theme, language to display content, and game platform for each of its pages. To maintain a convenient user experience, your preference is stored locally in a browser cookie.
+The site includes options to select a page theme, language to display content, and game platform for each of its pages. To maintain a convenient user experience, your preference is stored locally in a browser cookie.
 
 You may learn how to clear this data [at this page](https://www.privacypolicies.com/blog/how-to-delete-cookies/).
 

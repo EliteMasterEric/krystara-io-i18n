@@ -1,1 +1,15 @@
-{}
+{
+  "lb-rank": "Rang",
+  "lb-name": "Gildenname",
+  "lb-level": "Level",
+  "lb-trophies": "Trophäen gesamt",
+  "lb-members": "Mitglieder",
+  "lb-trophies-hourly": "+Trophäen (stündlich)",
+  "lb-trophies-daily": "+Trophäen (täglich)",
+  "lb-trophies-weekly": "+Trophäen (wöchentlich)",
+  "lb-levels-hourly": "+Level (stündlich)",
+  "lb-levels-daily": "+Level (täglich)",
+  "lb-levels-weekly": "+Level (wöchentlich)",
+
+  "members-format": "{{count}} / 30"
+}

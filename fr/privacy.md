@@ -4,8 +4,8 @@ Cette page documente comment Krystara.io acquière, stocke et utilise les donné
 
 ## Sommaire
 
-1. [Cookies](#browser-cookies)
-2. [Analytique](#analytics)
+1. [Cookies](#cookies)
+2. [Analytique](#analytique)
 
 ## Cookies
 
@@ -15,6 +15,6 @@ Vous trouverez comment effacer ces informations [sur cette page](https://www.pri
 
 ## Analytique
 
-Le site utilise Google Analitics afin d'aider à améliorer son fonctionnement. Google Analytics enregistre votre session sur le site, ce qui inclus les pages que vous visitez, ainsi que le thème, la langue et la plateforme que vous sélectionnez. Ces données sont anonymes et ne peuvent êtres associées avec vous.
+Le site utilise Google Analytics afin d'aider à améliorer son fonctionnement. Google Analytics enregistre votre session sur le site, ce qui inclus les pages que vous visitez, ainsi que le thème, la langue et la plateforme que vous sélectionnez. Ces données sont anonymes et ne peuvent êtres associées avec vous.
 
 Vous pouvez vous désister de l'enregistrement par Google Analytics [avec cette extension de navigateur](https://tools.google.com/dlpage/gaoptout).

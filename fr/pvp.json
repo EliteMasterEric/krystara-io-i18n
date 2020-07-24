@@ -1,1 +1,18 @@
-{}
+{
+  "page-title": "Classement JCJ ({{platform}}) - Eric's GoW Tools",
+  "page-desc": "Classement JCJ actuel pour Gems of War, mis à jour toutes les heures.",
+
+  "event-name": "Evènement: {{name}}",
+
+  "lb-rank": "Rang",
+  "lb-name": "Nom",
+  "lb-guild": "Guilde",
+  "lb-score": "Score Actuel",
+  "lb-wins-weekly": "# Victoires (Hebdo)",
+  "lb-losses-weekly)": "# Défaites (Hebdo)",
+  "lb-winrate-weekly)": "% Victoire (Hebdo)",
+  "lb-wins-total)": "# Victoires (Total)",
+  "lb-losses-total)": "# Défaites (Total)",
+  "lb-winrate-total)": "% Victoire (Total)",
+  "lb-winstreak": "Série de Victoires (Record)"
+}

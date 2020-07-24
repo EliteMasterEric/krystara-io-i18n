@@ -1,1 +1,18 @@
-{}
+{
+  "page-title": "PvP Ranglisten ({{platform}}) - Eric's GoW Tools",
+  "page-desc": "Momentane PvP Ranglisten for Gems of War, stündlich aktualisiert.",
+
+  "event-name": "Event: {{name}}",
+
+  "lb-rank": "Rang",
+  "lb-name": "Name",
+  "lb-guild": "Gilde",
+  "lb-score": "Momentanes Ergebnis",
+  "lb-wins-weekly": "# Siege (wöchentlich)",
+  "lb-losses-weekly)": "# Niederlagen (wöchentlich)",
+  "lb-winrate-weekly)": "Sieg % (wöchentlich)",
+  "lb-wins-total)": "# Siege (gesamt)",
+  "lb-losses-total)": "# Niederlagen (gesamt)",
+  "lb-winrate-total)": "Sieg % (gesamt)",
+  "lb-winstreak": "Siegessträhne (Rekord)"
+}

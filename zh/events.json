@@ -1,1 +1,27 @@
-{}
+{
+  "page-title": "活动预告 ({{platform}}) - Eric's GoW Tools",
+  "page-desc": "每日更新即将展开的各项活动.",
+
+  "head-name": "名称",
+  "head-start-date": "开始日期",
+  "head-end-date": "结束日期",
+  "head-duration": "持续时间",
+  "head-troop-pet-class": "部队/宠物/职业",
+  "head-kingdom": "王国",
+  "head-currency": "货币",
+  "head-medal": "勋章",
+
+  "event-duration": "{{count}} 天",
+  "event-duration_plural": "{{count}} 天",
+
+  "event-guildwars": "公会会战",
+  "event-bounty": "赏金",
+  "event-vault": "藏宝库",
+  "event-heroclass": "职业活动",
+  "event-petrescue": "魔宠营救",
+  "event-raidboss": "掠杀魔头",
+  "event-invasion": "攻城",
+  "event-factionassault": "属城进攻",
+  "event-world": "World Event: {{name}}",
+  "event-campaign": "战役: {{name}}"
+}

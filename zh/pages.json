@@ -1,1 +1,32 @@
-{}
+{
+  "page-title": "{{name}} - Krystara.io",
+  "page-title-platform": "{{name}} ({{platform}}) - Krystara.io",
+
+  "page-pvp": "PvP排行榜",
+  "page-pvp-blurb": "每小时更新当前PvP排行榜状态.",
+  "page-pvp-desc": "Current PvP standings for Gems of War, updated hourly.",
+
+  "page-events": "活动预告",
+  "page-events-blurb": "每日更新即将展开的各项活动.",
+  "page-events-desc": "List of future events for Gems of War, updated daily.",
+
+  "page-tasks": "当前任务",
+  "page-tasks-blurb": "每日更新探险任务及战役.",
+  "page-tasks-desc": "Adventure Board and Campaign Tasks for Gems of War, updated daily.",
+
+  "page-guild": "公会排行榜",
+  "page-guild-blurb": "每小时更新当前公会的奖杯和级别排名.",
+  "page-guild-desc": "Current Guild standings for Gems of War, sorted by trophies and levels, updated hourly.",
+
+  "page-guildwars": "公会会战排名",
+  "page-guildwars-blurb": "每日更新当前公会会战排名及分数.",
+  "page-guildwars-desc": "Current Guild Wars brackets and scores for Gems of War, updated hourly.",
+
+  "page-soulforge": "灵魂锻造历史",
+  "page-soulforge-blurb": "查询当前灵魂锻造内容，对后续内容进行预测.",
+  "page-soulforge-desc": "View the current Soulforge rotation for Gems of War, and predict future recipes.",
+
+  "page-assets": "游戏资料",
+  "page-assets-blurb": "浏览游戏插图及音轨.",
+  "page-assets-desc": "Peruse the Gems of War graphics and audio."
+}

@@ -1,3 +1,20 @@
 {
-  "untranslated": "non traduit"
+  "untranslated": "non traduit",
+   "development-warning": "ATTENTION: Vous visionnez une version en développement de cette page.",
+
+  "loading": "Chargement...",
+
+  "last-built": "Dernière contribution le {{time}}",
+  "last-updated": "Dernière mise à jour le {{time}}",
+
+  "license-notice": "Tous les éléments de Gems of War sont la propriété d’Infinity Plus Two et 505 Games.",
+  "copyright-notice": "© 2020 MasterEric",
+  "changelog": "Journal des modifications du site",
+  "privacy": "Politiqure de vie privée",
+
+  "return-home": "Retour à la page d'accueil",
+  "enable-dark": "Activer le Mode Sombre",
+  "disable-dark": "Désactiver le Mode Sombre",
+  "set-language": "Choix de la langue",
+  "set-platform": "Choix de la plateforme"
 }

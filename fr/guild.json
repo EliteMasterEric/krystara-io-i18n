@@ -1,1 +1,15 @@
-{}
+{
+  "lb-rank": "Rang",
+  "lb-name": "Nom de la Guilde",
+  "lb-level": "Niveau",
+  "lb-trophies": "Total des Trophées",
+  "lb-members": "Membres",
+  "lb-trophies-hourly": "+Trophies (Hour)",
+  "lb-trophies-daily": "+Trophies (Day)",
+  "lb-trophies-weekly": "+Trophies (Week)",
+  "lb-levels-hourly": "+Levels (Hour)",
+  "lb-levels-daily": "+Levels (Day)",
+  "lb-levels-weekly": "+Levels (Week)",
+
+  "members-format": "{{count}} / 30"
+}

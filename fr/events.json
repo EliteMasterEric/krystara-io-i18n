@@ -1,1 +1,27 @@
-{}
+{
+  "page-title": "Prochains événements ({{platform}}) - Boite à outils GoW d'Eric",
+  "page-desc": "Liste des événements futurs dans Gems of War, mis à jour quotidiennement.",
+
+  "head-name": "Nom",
+  "head-start-date": "Date de début",
+  "head-end-date": "Date de fin",
+  "head-duration": "Durée",
+  "head-troop-pet-class": "Troupe/Compagnon/Classe",
+  "head-kingdom": "Royaume",
+  "head-currency": "Monnaie",
+  "head-medal": "Médaille",
+
+  "event-duration": "{{count}} Jour",
+  "event-duration_plural": "{{count}} Jours",
+
+  "event-guildwars": "Guerre des Guildes",
+  "event-bounty": "Prime",
+  "event-vault": "Voute",
+  "event-heroclass": "Classe de Héros",
+  "event-petrescue": "Sauvetage de Compagnon",
+  "event-raidboss": "Boss de Raid",
+  "event-invasion": "Invasion",
+  "event-factionassault": "Assaut de Faction",
+  "event-world": "Evénement Mondial: {{name}}",
+  "event-campaign": "Campagne: {{name}}"
+}

@@ -1,1 +1,32 @@
-{}
+{
+  "page-title": "{{name}} - Krystara.io",
+  "page-title-platform": "{{name}} ({{platform}}) - Krystara.io",
+
+  "page-pvp": "PvP排行榜",
+  "page-pvp-blurb": "当前PvP排名，每小时更新。",
+  "page-pvp-desc": "当前《宝石战争》PvP排名，每小时更新",
+
+  "page-events": "即将到来的活动",
+  "page-events-blurb": "未来的活动列表，每日更新。",
+  "page-events-desc": "《宝石战争》未来的活动列表，每日更新。",
+
+  "page-tasks": "现在的任务",
+  "page-tasks-blurb": "冒险者面板和战役任务，每日更新。",
+  "page-tasks-desc": "《宝石战争》冒险者面板和战役任务，每日更新。",
+
+  "page-guild": "公会排行榜",
+  "page-guild-blurb": "当前公会奖杯和等级排名，每小时更新。",
+  "page-guild-desc": "《宝石战争》当前公会奖杯和等级排名，每小时更新。",
+
+  "page-guildwars": "会战赛区",
+  "page-guildwars-blurb": "当前会战赛区和积分，每日更新。",
+  "page-guildwars-desc": "《宝石战争》当前会战赛区和积分，每日更新。",
+
+  "page-soulforge": "锻造历史",
+  "page-soulforge-blurb": "浏览当前锻造轮换和未来轮换预测。",
+  "page-soulforge-desc": "浏览《宝石战争》当前锻造轮换和未来轮换预测。",
+
+  "page-assets": "资源",
+  "page-assets-blurb": "阅览游戏的图像和音像文件。",
+  "page-assets-desc": "阅览《宝石战争》的图像和音像文件。"
+}

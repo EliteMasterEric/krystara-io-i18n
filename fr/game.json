@@ -4,7 +4,7 @@
   "color-red": "Rouges",
   "color-yellow": "Jaunes",
   "color-purple": "Violettes",
-  "color-brown": "Marron",
+  "color-brown": "Marrons",
 
   "souls": "{{count}} Âmes",
   "gold": "{{count}} pièces d'or",
@@ -44,7 +44,7 @@
   "deed-brown": "{{count}} Acte de Pierre",
   "deed-brown_plural": "{{count}} Actes de Pierre",
   "deed-imperial": "{{count}} Acte Impérial",
-  "deed-imperial_plural": "{{count}} Actes Impérial",
+  "deed-imperial_plural": "{{count}} Actes Impériaux",
 
   "rune0": "{{count}} Pierre d'Aspect Mineure de l'Eau",
   "rune0_plural": "{{count}} Pierres d'Aspect Mineure de l'Eau",

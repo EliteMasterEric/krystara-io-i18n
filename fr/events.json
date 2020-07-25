@@ -16,12 +16,12 @@
 
   "event-guildwars": "Guerre des Guildes",
   "event-bounty": "Prime",
-  "event-vault": "Voute",
+  "event-vault": "Voûte",
   "event-heroclass": "Classe de Héros",
   "event-petrescue": "Sauvetage de Compagnon",
   "event-raidboss": "Boss de Raid",
   "event-invasion": "Invasion",
   "event-factionassault": "Assaut de Faction",
-  "event-world": "Evénement Mondial: {{name}}",
+  "event-world": "Événement Mondial: {{name}}",
   "event-campaign": "Campagne: {{name}}"
 }

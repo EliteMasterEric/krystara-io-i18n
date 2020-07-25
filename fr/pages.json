@@ -1,1 +1,32 @@
-{}
+{
+  "page-title": "{{name}} - Krystara.io",
+  "page-title-platform": "{{name}} ({{platform}}) - Krystara.io",
+
+  "page-pvp": "Classement JcJ",
+  "page-pvp-blurb": "Classement JcJ actuel, mis à jour toutes les heures.",
+  "page-pvp-desc": "Classement JcJ actuel de Gems of War, mis à jour toutes les heures.",
+
+  "page-events": "Prochains événements",
+  "page-events-blurb": "Liste des événements futurs, mise à jour quotidiennement.",
+  "page-events-desc": "Liste des événements futurs de Gems Of War, mise à jour quotidiennement.",
+
+  "page-tasks": "Tâches actuelles",
+  "page-tasks-blurb": "Tableau d’aventures et tâches de campagne, mis à jour quotidiennement.",
+  "page-tasks-desc": "Tableau d’aventures et tâches de campagne de Gems Of War, mis à jour quotidiennement.",
+
+  "page-guild": "Classement de Guilde",
+  "page-guild-blurb": "Classement actuel des guildes par trophées et niveaux, mis à jour toutes les heures.",
+  "page-guild-desc": "Classement actuel des guildes par trophées et niveaux de Gems Of War, mis à jour toutes les heures.",
+
+  "page-guildwars": "Tranches de Guerre des Guildes",
+  "page-guildwars-blurb": "Tranches et Scores actuels de Guerre des Guildes, mis à jour quotidiennement.",
+  "page-guildwars-desc": "Tranches et Scores actuels de Guerre des Guildes de Gems Of War, mis à jour quotidiennement.",
+
+  "page-soulforge": "Historique de la Forge des Âmes",
+  "page-soulforge-blurb": "Vue de la rotation actuelle de la Forge des Âmes, et prédiction des rotations futures.",
+  "page-soulforge-desc": "Vue de la rotation actuelle de la Forge des Âmes de Gems Of Wars, et prédiction des rotations futures.",
+
+  "page-assets": "Ressources",
+  "page-assets-blurb": "Parcourir, visionner les graphismes et écouter l’audio du jeu",
+  "page-assets-desc": "Visionner les graphismes et écouter l'audio de Gems Of War."
+}

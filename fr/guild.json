@@ -4,12 +4,12 @@
   "lb-level": "Niveau",
   "lb-trophies": "Total des Trophées",
   "lb-members": "Membres",
-  "lb-trophies-hourly": "+Trophies (Hour)",
-  "lb-trophies-daily": "+Trophies (Day)",
-  "lb-trophies-weekly": "+Trophies (Week)",
-  "lb-levels-hourly": "+Levels (Hour)",
-  "lb-levels-daily": "+Levels (Day)",
-  "lb-levels-weekly": "+Levels (Week)",
+  "lb-trophies-hourly": "+Trophées (Heure)",
+  "lb-trophies-daily": "+Trophées (Jour)",
+  "lb-trophies-weekly": "+Trophées (Semaine)",
+  "lb-levels-hourly": "+Niveaux (Heure)",
+  "lb-levels-daily": "+Niveaux (Jour)",
+  "lb-levels-weekly": "+Niveaux (Semaine)",
 
   "members-format": "{{count}} / 30"
 }

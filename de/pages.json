@@ -1,1 +1,32 @@
-{}
+{
+  "page-title": "{{name}} - Krystara.io",
+  "page-title-platform": "{{name}} ({{platform}}) - Krystara.io",
+
+  "page-pvp": "PvP Ranglisten",
+  "page-pvp-blurb": "Momentane PvP Rangliste, stündlich aktualisiert.",
+  "page-pvp-desc": "Momentane PvP Rangliste für Gems of War, stündlich aktualisiert.",
+
+  "page-events": "Nächste Events",
+  "page-events-blurb": "Liste von zukünftigen Events, täglich aktualisiert.",
+  "page-events-desc": "Liste von zukünftigen Events in Gems of War, täglich aktualisiert.",
+
+  "page-tasks": "Heutige Aufgaben",
+  "page-tasks-blurb": "Abenteuer Pinnwand und Kampagnen-Aufgaben, täglich aktualisiert.",
+  "page-tasks-desc": "Abenteuer Pinnwand und Kampagnen-Aufgaben für Gems of War, täglich aktualisiert.",
+
+  "page-guild": "Gilden Rangliste",
+  "page-guild-blurb": "Momentane Gilden-Rangliste nach Trophäen und Level, stündlich aktualisiert.",
+  "page-guild-desc": "Momentane Gilden-Rangliste, sortiert nach Trophäen und Level, stündlich aktualisiert.",
+
+  "page-guildwars": "Gildenkriegs-Gruppe",
+  "page-guildwars-blurb": "Heutige Gildenkriegs-Gruppe und Punkte, täglich aktualisiert.",
+  "page-guildwars-desc": "Aktuelle Gildenkriegs-Gruppe und Punkte für Gems of War, stündlich aktualisiert.",
+
+  "page-soulforge": "Seelenschmiede-Verlauf",
+  "page-soulforge-blurb": "Ansicht der aktuellen Seelenschmieden-Rotation und Vorhersage.",
+  "page-soulforge-desc": "Ansicht der aktuellen Seelenschmieden-Rotation für Gems of War und Vorhersage.",
+
+  "page-assets": "Inhalte",
+  "page-assets-blurb": "Übersicht über Grafik- und Audiodaten.",
+  "page-assets-desc": "Übersicht über Gems of War Grafik- und Audiodaten."
+}

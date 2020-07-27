@@ -1,20 +1,21 @@
-# Politique de confidentialité
+# Politique de Confidentialité
 
-Cette page documente comment Krystara.io récupère, stocke et utilise les données collectées auprès des utilisateurs.
+Cette page documente comment Krystara.io acquière, stocke et utilise les données collectées auprès des utilisateurs.
 
 ## Sommaire
 
-1. [Cookies du navigateur](#browser-cookies)
-2. [Analyses](#analytics)
+1. [Cookies](#cookies)
+2. [Analytique](#analytique)
 
-## Cookies du navigateur
+## Cookies
 
-Le site comprend des options pour sélectionner un thème de page, la langue pour afficher le contenu et la plateforme de jeu pour chacune de ses pages. Pour maintenir une expérience utilisateur pratique, votre préférence est stockée localement dans un cookie de navigateur.
+Le site inclus des options pour sélectionner un thème, un language et une plate-forme de jeu pour chacune de ses pages. Afin de faciliter l'expérience utilisateur, vos préférences sont stockées localement dans un cookie.
 
-Vous pouvez apprendre à effacer ces données [sur cette page](https://www.privacypolicies.com/blog/how-to-delete-cookies/).
+Vous trouverez comment effacer ces informations [sur cette page](https://www.privacypolicies.com/blog/how-to-delete-cookies/).
 
-## Analyses
+## Analytique
 
-Le site utilise Google Analytics pour améliorer le site. Google Analytics suit votre session sur le site, y compris les pages vers lesquelles vous naviguez, ainsi que le thème, la langue et la plateforme que vous sélectionnez. Ces données sont anonymisées et ne peuvent pas vous être associées.
+Le site utilise Google Analytics afin d'aider à améliorer son fonctionnement. Google Analytics enregistre votre session sur le site, ce qui inclus les pages que vous visitez, ainsi que le thème, la langue et la plateforme que vous sélectionnez. Ces données sont anonymes et ne peuvent êtres associées avec vous.
 
-Vous pouvez refuser le suivi par Google Analytics [en utilisant cette extension du navigateur](https://tools.google.com/dlpage/gaoptout).
+Vous pouvez vous désister de l'enregistrement par Google Analytics [avec cette extension de navigateur](https://tools.google.com/dlpage/gaoptout).
+

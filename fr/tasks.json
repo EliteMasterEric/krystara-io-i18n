@@ -1,9 +1,9 @@
 {
-  "page-title": "Tâches actuelles ({{platform}}) - Boite à outils GoW d'Eric",
-  "page-desc": "Liste des aventures et tâches de campagne de Gems of War, mis à jour quotidiennement.",
+  "page-title": "Tâches en cours ({{platform}}) - Eric's GoW Tools",
+  "page-desc": "Annonces d'aventures et Tâches de Campagne pour Gems of War, mises à jour quotidiennement.",
 
-  "adventure-board": "Liste des aventures",
-  "adventure-board-battles": "{{count}} Combats dans {{kingdom}}",
+  "adventure-board": "Annonces d'aventures",
+  "adventure-board-battles": "{{count}} Batailles à {{kingdom}}",
 
   "campaign": "Campagne",
   "campaign-gold": "Or",

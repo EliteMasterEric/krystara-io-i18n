@@ -1,1 +1,18 @@
-{}
+{
+  "page-title": "PvP排行榜({{platform}}) - Eric的《宝石战争》工具",
+  "page-desc": "最新的《宝石战争》PvP排名，每小时更新",
+
+  "event-name": "活动：{{name}}",
+
+  "lb-rank": "排名",
+  "lb-name": "名称",
+  "lb-guild": "公会",
+  "lb-score": "当前积分",
+  "lb-wins-weekly": "胜利数(周)",
+  "lb-losses-weekly)": "失败数(周)",
+  "lb-winrate-weekly)": "胜率%(周)",
+  "lb-wins-total)": "胜利数(生涯)",
+  "lb-losses-total)": "失败数(生涯)",
+  "lb-winrate-total)": "胜率%(生涯)",
+  "lb-winstreak": "连胜(记录)"
+}

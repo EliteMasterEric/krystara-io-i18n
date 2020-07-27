@@ -1,1 +1,14 @@
-{}
+{
+  "page-title": "Incarichi Attuali ({{platform}}) - Eric's GoW Tools",
+  "page-desc": "Bacheca dell'Avventura e Incarichi della Campagna, aggiornate giornalmente.",
+
+  "adventure-board": "Bacheca dell'Avventura",
+  "adventure-board-battles": "{{count}} Battaglie a {{kingdom}}",
+
+  "campaign": "Campagna",
+  "campaign-gold": "Oro",
+  "campaign-silver": "Argento",
+  "campaign-bronze": "Bronzo",
+
+  "required": " [{{count}} required]"
+}

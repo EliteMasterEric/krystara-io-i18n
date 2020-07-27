@@ -1,1 +1,14 @@
-{}
+{
+  "page-title": "当前的任务({{platform}}) - Eric的《宝石战争》工具",
+  "page-desc": "《宝石战争》冒险家面板和战役任务，每日更新。",
+
+  "adventure-board": "冒险家面板",
+  "adventure-board-battles": "在{{kingdom}}赢得{{count}}场战斗",
+
+  "campaign": "战役",
+  "campaign-gold": "黄金",
+  "campaign-silver": "白银",
+  "campaign-bronze": "青铜",
+
+  "required": " [需要{{count}}]"
+}

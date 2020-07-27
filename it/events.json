@@ -1,1 +1,24 @@
-{}
+{
+  "head-name": "Nome",
+  "head-start-date": "Data Inizio",
+  "head-end-date": "Data Fine",
+  "head-duration": "Durata",
+  "head-troop-pet-class": "Truppa/Famiglio/Classe",
+  "head-kingdom": "Regno",
+  "head-currency": "Valuta",
+  "head-medal": "Medaglia",
+
+  "event-duration": "{{count}} Giorno",
+  "event-duration_plural": "{{count}} Giorni",
+
+  "event-guildwars": "Guerra delle Gilde",
+  "event-bounty": "Taglia",
+  "event-vault": "Cassaforte",
+  "event-heroclass": "Classe Eroe",
+  "event-petrescue": "Salvataggio Famiglio",
+  "event-raidboss": "Raid Boss",
+  "event-invasion": "Invasione",
+  "event-factionassault": "Assalto Fazione",
+  "event-world": "Evento Mondiale: {{name}}",
+  "event-campaign": "Campagna: {{name}}"
+}

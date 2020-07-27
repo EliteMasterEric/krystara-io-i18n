@@ -1,1 +1,15 @@
-{}
+{
+  "lb-rank": "Rango",
+  "lb-name": "Nome della Gilda",
+  "lb-level": "Livello",
+  "lb-trophies": "Trofei Totali",
+  "lb-members": "Membri",
+  "lb-trophies-hourly": "+Trofei (Ora)",
+  "lb-trophies-daily": "+Trofei (Giorno)",
+  "lb-trophies-weekly": "+Trofei (Settimana)",
+  "lb-levels-hourly": "+Livelli (Ora)",
+  "lb-levels-daily": "+Livelli (Giorno)",
+  "lb-levels-weekly": "+Livelli (Settimana)",
+
+  "members-format": "{{count}} / 30"
+}

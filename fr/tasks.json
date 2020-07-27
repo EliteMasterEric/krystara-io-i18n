@@ -1,1 +1,14 @@
-{}
+{
+  "page-title": "Tâches en cours ({{platform}}) - Eric's GoW Tools",
+  "page-desc": "Annonces d'aventures et Tâches de Campagne pour Gems of War, mises à jour quotidiennement.",
+
+  "adventure-board": "Annonces d'aventures",
+  "adventure-board-battles": "{{count}} Batailles à {{kingdom}}",
+
+  "campaign": "Campagne",
+  "campaign-gold": "Or",
+  "campaign-silver": "Argent",
+  "campaign-bronze": "Bronze",
+
+  "required": " [{{count}} requis]"
+}

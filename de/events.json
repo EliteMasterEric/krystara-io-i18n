@@ -1,1 +1,27 @@
-{}
+{
+  "page-title": "Nächste Events ({{platform}}) - Eric's GoW Tools",
+  "page-desc": "Liste von zukünftigen Events in Gems of War, täglich aktualisiert.",
+
+  "head-name": "Name",
+  "head-start-date": "Startdatum,",
+  "head-end-date": "Enddatum",
+  "head-duration": "Dauer",
+  "head-troop-pet-class": "Einheit/Haustier/Klasse",
+  "head-kingdom": "Königreich",
+  "head-currency": "Sammelbares",
+  "head-medal": "Orden",
+
+  "event-duration": "{{count}} Tag",
+  "event-duration_plural": "{{count}} Tage",
+
+  "event-guildwars": "Gildenkriege",
+  "event-bounty": "Kopfgeld",
+  "event-vault": "Schatzkammer",
+  "event-heroclass": "Klassen-Event",
+  "event-petrescue": "Haustierrettung",
+  "event-raidboss": "Räuberboss",
+  "event-invasion": "Invasion",
+  "event-factionassault": "Angriff aufs Territorium",
+  "event-world": "Welt-Event: {{name}}",
+  "event-campaign": "Kampagne: {{name}}"
+}

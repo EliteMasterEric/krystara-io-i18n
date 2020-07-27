@@ -1,1 +1,14 @@
-{}
+{
+  "page-title": "Momentane Aufgaben ({{platform}}) - Eric's GoW Tools",
+  "page-desc": "Abenteuer-Pinnwand und Kampagnen-Aufgaben für Gems of War, täglich aktualisiert.",
+
+  "adventure-board": "Abenteuer-Pinnwand",
+  "adventure-board-battles": "{{count}} Kämpfe in {{kingdom}}",
+
+  "campaign": "Kampagne",
+  "campaign-gold": "Gold",
+  "campaign-silver": "Silber",
+  "campaign-bronze": "Bronze",
+
+  "required": " [{{count}} benötigt]"
+}

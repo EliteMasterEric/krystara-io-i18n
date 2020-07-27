@@ -1,1 +1,6 @@
-{}
+{
+  "pcmob": "PC/Mobile",
+  "ps4": "Playstation",
+  "switch": "Switch",
+  "xb1": "XBOX"
+}

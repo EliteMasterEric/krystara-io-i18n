@@ -1,1 +1,32 @@
-{}
+{
+  "page-title": "{{name}} - Krystara.io",
+  "page-title-platform": "{{name}} ({{platform}}) - Krystara.io",
+
+  "page-pvp": "Classifiche PvP",
+  "page-pvp-blurb": "Classifiche PvP attuali, aggiornate ogni ora.",
+  "page-pvp-desc": "Classifiche PvP attuali per Gems of War, aggiornate ogni ora.",
+
+  "page-events": "Eventi in Arrivo",
+  "page-events-blurb": "Lista degli eventi futuri, aggiornata giornalmente.",
+  "page-events-desc": "Lista degli eventi futuri per Gems of War, aggiornata giornalmente.",
+
+  "page-tasks": "Incarichi Attuali",
+  "page-tasks-blurb": "Bacheca dell'Avventura e Incarichi della Campagna, aggiornati giornalmente.",
+  "page-tasks-desc": "Bacheca dell'Avventura e Incarichi della Campagna per Gems of War, aggiornati giornalmente.",
+
+  "page-guild": "Classifica Gilde",
+  "page-guild-blurb": "Attuale posizione Gilde per Trofei e Livelli, aggiornata ogni ora.",
+  "page-guild-desc": "Attuale posizione Gilde per Gems of War ordinata per Trofei e Livelli, aggiornata ogni ora.",
+
+  "page-guildwars": "Fasce della Guerra delle Gilde",
+  "page-guildwars-blurb": "Attuali fasce e punteggi della Guerra delle Gilde, aggiornata giornalmente.",
+  "page-guildwars-desc": "Attuali fasce e punteggi della Guerra delle Gilde per Gems of War, aggiornata ogni ora.",
+
+  "page-soulforge": "Storico Forgia delle Anime",
+  "page-soulforge-blurb": "Visualizza l'attuale rotazione della Forgia delle Anime e predice le future.",
+  "page-soulforge-desc": "Visualizza l'attuale rotazione della Forgia delle Anime per Gems of War e predice i futuri ingredienti",
+
+  "page-assets": "Risorse",
+  "page-assets-blurb": "Esamina le risorse grafiche e audio del gioco.",
+  "page-assets-desc": "Esamina le risorse grafiche e audio di Gems of War."
+}

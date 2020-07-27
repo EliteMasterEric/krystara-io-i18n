@@ -1,1 +1,18 @@
-{}
+{
+  "page-title": "Classifica PVP ({{platform}}) - Eric's GoW Tools",
+  "page-desc": "Classiffica attuale PVP per Gems of War, aggiornata ogni ora.",
+
+  "event-name": "Evento: {{name}}",
+
+  "lb-rank": "Rango",
+  "lb-name": "Nome",
+  "lb-guild": "Gilda",
+  "lb-score": "Punteggio",
+  "lb-wins-weekly": "# Vinte (Settimana)",
+  "lb-losses-weekly)": "# Perse (Settimana)",
+  "lb-winrate-weekly)": "% Vittorie (Setiimana)",
+  "lb-wins-total)": "# Vinte (Totale)",
+  "lb-losses-total)": "# Perse (Totale)",
+  "lb-winrate-total)": "% Vinte (Totale)",
+  "lb-winstreak": "Striscia Vincente (Record)"
+}

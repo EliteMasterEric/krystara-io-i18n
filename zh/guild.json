@@ -1,1 +1,15 @@
-{}
+{
+  "lb-rank": "排名",
+  "lb-name": "公会名称",
+  "lb-level": "等级",
+  "lb-trophies": "奖杯总数",
+  "lb-members": "成员",
+  "lb-trophies-hourly": "+奖杯(小时)",
+  "lb-trophies-daily": "+奖杯(天)",
+  "lb-trophies-weekly": "+奖杯(周)",
+  "lb-levels-hourly": "+等级(小时)",
+  "lb-levels-daily": "+等级(天)",
+  "lb-levels-weekly": "+等级(周)",
+
+  "members-format": "{{count}} / 30"
+}

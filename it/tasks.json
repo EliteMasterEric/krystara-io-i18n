@@ -1,1 +1,14 @@
-{}
+{
+  "page-title": "Incarichi Correnti ({{platform}}) - Eric's GoW Tools",
+  "page-desc": "Incarichi Bacheca dell'avventura e Campagna per Gems of War, aggiornati giornalmente.",
+
+  "adventure-board": "Bacheca dell'Avventura",
+  "adventure-board-battles": "{{count}} Battaglie in {{kingdom}}",
+
+  "campaign": "Campagna",
+  "campaign-gold": "Oro",
+  "campaign-silver": "Argento",
+  "campaign-bronze": "Bronzo",
+
+  "required": " [{{count}} richiesti]"
+}

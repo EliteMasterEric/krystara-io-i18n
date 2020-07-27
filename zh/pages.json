@@ -4,29 +4,29 @@
 
   "page-pvp": "PvP排行榜",
   "page-pvp-blurb": "每小时更新当前PvP排行榜状态.",
-  "page-pvp-desc": "Current PvP standings for Gems of War, updated hourly.",
+  "page-pvp-desc": "宝石战争当前PvP排行榜状态, 每小时更新.",
 
   "page-events": "活动预告",
   "page-events-blurb": "每日更新即将展开的各项活动.",
-  "page-events-desc": "List of future events for Gems of War, updated daily.",
+  "page-events-desc": "宝石战争即将展开的各项活动, 每日更新.",
 
   "page-tasks": "当前任务",
   "page-tasks-blurb": "每日更新探险任务及战役.",
-  "page-tasks-desc": "Adventure Board and Campaign Tasks for Gems of War, updated daily.",
+  "page-tasks-desc": "宝石战争探险任务及战役, 每日更新.",
 
   "page-guild": "公会排行榜",
   "page-guild-blurb": "每小时更新当前公会的奖杯和级别排名.",
-  "page-guild-desc": "Current Guild standings for Gems of War, sorted by trophies and levels, updated hourly.",
+  "page-guild-desc": "宝石战争当前公会的奖杯和级别排名, 每小时更新.",
 
   "page-guildwars": "公会会战排名",
   "page-guildwars-blurb": "每日更新当前公会会战排名及分数.",
-  "page-guildwars-desc": "Current Guild Wars brackets and scores for Gems of War, updated hourly.",
+  "page-guildwars-desc": "宝石战争当前公会会战排名及分数, 每小时更新.",
 
   "page-soulforge": "灵魂锻造历史",
   "page-soulforge-blurb": "查询当前灵魂锻造内容，对后续内容进行预测.",
-  "page-soulforge-desc": "View the current Soulforge rotation for Gems of War, and predict future recipes.",
+  "page-soulforge-desc": "查询宝石战争中当前灵魂锻造内容，对后续内容进行预测.",
 
   "page-assets": "游戏资料",
   "page-assets-blurb": "浏览游戏插图及音轨.",
-  "page-assets-desc": "Peruse the Gems of War graphics and audio."
+  "page-assets-desc": "浏览宝石战争的插图及音轨."
 }

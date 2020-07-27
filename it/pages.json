@@ -1,1 +1,32 @@
-{}
+{
+  "page-title": "{{name}} - Krystara.io",
+  "page-title-platform": "{{name}} ({{platform}}) - Krystara.io",
+
+  "page-pvp": "Classifica PVP",
+  "page-pvp-blurb": "Classifica PVP attuale, aggiornata ogni ora.",
+  "page-pvp-desc": "Classifica PVP attuale per Gems of War, aggiornata ogni ora.",
+
+  "page-events": "Prossimi Eventi",
+  "page-events-blurb": "Lista dei prossimi eventi, aggiornata giornalmente.",
+  "page-events-desc": "Lista dei prossimi eventi per Gems of War, aggiornata giornlamente.",
+
+  "page-tasks": "Incarichi Correnti",
+  "page-tasks-blurb": "Incarichi Bacheca dell'Avventura e Campagna, aggiornati giornalmente.",
+  "page-tasks-desc": "Incarichi Bacheca dell'Avventura e Campagna per Gems of War, aggiornati giornalmente.",
+
+  "page-guild": "Classifica Gilde",
+  "page-guild-blurb": "Classifica attuale Gilde per trofei e livelli, aggiornata ogni ora.",
+  "page-guild-desc": "Classifica attuale Gilde per Gems of War, ordinata per trodfei e livelli, aggiornata ogni ora.",
+
+  "page-guildwars": "Fasce Guerra delle Gilde",
+  "page-guildwars-blurb": "Fasce attuali Guerra delle Gilde e punteggi, aggiornate giornalmente.",
+  "page-guildwars-desc": "Fasce attuali Guerra delle Gilde e punteggi per Gems of War, aggiornate giornalmente.",
+
+  "page-soulforge": "Cronologia Fucina delle Anime",
+  "page-soulforge-blurb": "Visualizza la corrente rotazione della Fucina delle Anime, e predice quelle future.",
+  "page-soulforge-desc": "View the current Soulforge rotation for Gems of War, e predice quelle future.",
+
+  "page-assets": "Risorse",
+  "page-assets-blurb": "Analizza la grafica e l'audio del gioco.",
+  "page-assets-desc": "Analizza la grafica e l'audio di Gems of War."
+}

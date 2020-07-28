@@ -7,14 +7,14 @@ This page documents the major changes that have occurred with Krystara.io.
 1. [Version 1](#version-1)
 2. [Version 2](#version-2)
 
-## Version 1
+## Version 1.0
 
 - Base version, written in React + NodeJS in like 4 hours.
 - Only support for PvP leaderboard.
 - No language support, no platform support.
 - No mobile compatible interface.
 
-## Version 2
+## Version 2.0
 
 - Rewrote the app entirely over about a week.
 - Now uses MaterialUI for styling, allowing compatibility with mobile.
@@ -33,3 +33,12 @@ This page documents the major changes that have occurred with Krystara.io.
 - Preferred dark mode setting, platform, and language now saved to local storage.
 - Added Google Analytics for improved page usage insights. See Privacy Policy for more info.
 - Created [community localization project](https://github.com/MasterEric/gow-stuff-i18n).
+
+## Version 2.1 (TESTING)
+
+- Fixed Discord link on front page.
+- Fixed issue where navigation overlapped page contents on smaller screens.
+- Fixed Gold and Souls amounts not being translated properly in Tasks.
+- Fixed trophies being swapped with levels on the Guild page.
+- Fixed crash when attempting to access Tasks page on a platform that doesn't have a Campaign active.
+- Testing translations for French, Chinese, and German.

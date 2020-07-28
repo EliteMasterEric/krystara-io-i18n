@@ -1,1 +1,24 @@
-{}
+{
+  "head-name": "Название",
+  "head-start-date": "Дата Начала",
+  "head-end-date": "Дата Окончания",
+  "head-duration": "Продолжительность",
+  "head-troop-pet-class": "Войско/Питомец/Класс",
+  "head-kingdom": "Королевство",
+  "head-currency": "Валюта",
+  "head-medal": "Медаль",
+
+  "event-duration": "{{count}} День",
+  "event-duration_plural": "{{count}} Дней",
+
+  "event-guildwars": "Война Гильдий",
+  "event-bounty": "Нажива",
+  "event-vault": "Хранилище Карликов",
+  "event-heroclass": "Классовое Событие",
+  "event-petrescue": "Спасение Питомца",
+  "event-raidboss": "Рейдовый Босс",
+  "event-invasion": "Вторжение",
+  "event-factionassault": "Нападение на Фракцию",
+  "event-world": "Мировое Событие: {{name}}",
+  "event-campaign": "Кампания: {{name}}"
+}

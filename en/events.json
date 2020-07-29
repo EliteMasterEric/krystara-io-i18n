@@ -16,7 +16,7 @@
   "event-vault": "Vault",
   "event-heroclass": "Hero Class",
   "event-petrescue": "Pet Rescue",
-  "event-raidboss": "Raid Boss",
+  "event-raidboss": "Assalto Boss",
   "event-invasion": "Invasion",
   "event-factionassault": "Faction Assault",
   "event-world": "World Event: {{name}}",

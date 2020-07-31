@@ -1,1 +1,6 @@
-{}
+{
+  "pcmob": "ПК/Мобильные",
+  "ps4": "Playstation",
+  "switch": "Switch",
+  "xb1": "XBOX"
+}

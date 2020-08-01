@@ -6,9 +6,18 @@
   "adventure-board-battles": "{{count}} Battles in {{kingdom}}",
 
   "campaign": "Campaign",
+  "campaign-disclaimer": "Due to technical issues, tasks may be in a jumbled order or missing conditions. Should still be useful though, check for tasks requiring Dungeons or the Adventure Board!",
   "campaign-gold": "Gold",
   "campaign-silver": "Silver",
   "campaign-bronze": "Bronze",
+
+  "unknown-trooptype": "(Specific Type)",
+  "unknown-troopcolor": "(Specific Color)",
+  "unknown-troopid": "(Specific Troop)",
+  "unknown-exploredifficulty": "(Some Explore Difficulty)",
+  "unknown-delvelevel": "(Some Delve Level)",
+
+  "chapter-format": "Chapter {{number}}: {{kingdom}}",
 
   "required": " [{{count}} required]"
 }

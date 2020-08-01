@@ -34,11 +34,14 @@ This page documents the major changes that have occurred with Krystara.io.
 - Added Google Analytics for improved page usage insights. See Privacy Policy for more info.
 - Created [community localization project](https://github.com/MasterEric/gow-stuff-i18n).
 
-## Version 2.1 (TESTING)
+## Version 2.0.5
 
+- Testing community translations for French, Chinese, German, Italian, and Russian.
+- Cleaned up task display.
+- Fixed issue where Treasure Map tasks were displaying incorrectly.
+- Added disclaimer to Campaign tasks indicating issues with task data.
 - Fixed Discord link on front page.
 - Fixed issue where navigation overlapped page contents on smaller screens.
 - Fixed Gold and Souls amounts not being translated properly in Tasks.
 - Fixed trophies being swapped with levels on the Guild page.
 - Fixed crash when attempting to access Tasks page on a platform that doesn't have a Campaign active.
-- Testing translations for French, Chinese, and German.

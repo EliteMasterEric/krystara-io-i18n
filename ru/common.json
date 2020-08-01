@@ -1,3 +1,20 @@
 {
-  "untranslated": "непереведенным"
+  "untranslated": "не переведено",
+  "development-warning": "ВНИМАНИЕ: Версия этой страницы находится в разработке.",
+
+  "loading": "Загрузка...",
+
+  "last-built": "Последняя сборка в {{time}}",
+  "last-updated": "Последнее обновление в {{time}}",
+
+  "license-notice": "Все права на Gems of War принадлежат компаниям Infinity Plus Two и 505 Games.",
+  "copyright-notice": "© 2020 MasterEric",
+  "changelog": "Изменения Сайта",
+  "privacy": "Политика Конфиденциальности",
+
+  "return-home": "Вернуться на Основную",
+  "enable-dark": "Включить Тёмную Тему",
+  "disable-dark": "Отключить Тёмную Тему",
+  "set-language": "Выбрать Язык",
+  "set-platform": "Выбрать Платформу"
 }

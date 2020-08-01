@@ -1,1 +1,15 @@
-{}
+{
+  "lb-rank": "Ранг",
+  "lb-name": "Имя Гильдии",
+  "lb-level": "Уровень",
+  "lb-trophies": "Всего трофеев",
+  "lb-members": "Участники",
+  "lb-trophies-hourly": "+Трофеев (Час)",
+  "lb-trophies-daily": "+Трофеев (День)",
+  "lb-trophies-weekly": "+Трофеев (Неделя)",
+  "lb-levels-hourly": "+Уровней (Час)",
+  "lb-levels-daily": "+Уровней (День)",
+  "lb-levels-weekly": "+Уровней (Неделя)",
+
+  "members-format": "{{count}} / 30"
+}

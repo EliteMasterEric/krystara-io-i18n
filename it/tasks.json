@@ -6,9 +6,18 @@
   "adventure-board-battles": "{{count}} Battaglie a {{kingdom}}",
 
   "campaign": "Campagna",
+  "campaign-disclaimer": "A causa di problemi tecnici, gli incarichi potrebbero essere ordinati casualmente o nono avere le condizioni. Dovrebbero comunque essere ancora utili, controllate le attività del Dungeon oppure della Bacheca dell'Avventura!",
   "campaign-gold": "Oro",
   "campaign-silver": "Argento",
   "campaign-bronze": "Bronzo",
-
+  
+  "unknown-trooptype": "(Tipo Specifico)",
+  "unknown-troopcolor": "(Colore Specifico)",
+  "unknown-troopid": "(Truppa Specifica)",
+  "unknown-exploredifficulty": "(Alcune Livello Difficoltà Esplora)",
+  "unknown-delvelevel": "(Alcuni Livello Scavo),
+  
+  "chapter-format": "Capitolo {{number}}: {{kingdom}}",
+  
   "required": " [{{count}} required]"
 }

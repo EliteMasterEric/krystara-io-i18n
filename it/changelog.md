@@ -34,11 +34,14 @@ Queste pagine contengono le principali modifiche che sono state verificate su Kr
 - Aggiunto Google Analytics per un utilizzo migliore delle pagine. Visualizza la pagina Privacy Policy per ulteriori informazioni.
 - Creata [Progetto Localizzazione Community](https://github.com/MasterEric/gow-stuff-i18n).
 
-## Versione 2.1 (TESTING)
+## Versione 2.0.5
 
+- Prove traduzioni della community per Francese, Cinese, Tedesco, Italiano e Russo.
+- Sistemata la visualizzazione incarichi.
+- Corretto un problema dove le Mappe del Tesoro erano visualizzate incorrettamente.
+- Aggiunto disclaimer per gli incarichi della Campagna indicando i problemi dei dati degli incarichi.
 - Corretto link Discord nella pagina iniziale.
 - Corretto un problema dove le pagine si sovrapponevano con display piccoli.
 - Corretta la traduzione di Oro e Anime che non veniva tradotta correttamente negli Incarichi.
 - Corretti i Trofei che venivano scambiati con i Livelli nella pagina Gilda.
 - Corretto il crash quando si accedeva agli Incarichi utilizzando una piattaforma che non aveva una Campagna attiva.
-- Testing delle traduzioni per Francese, Cinese, e Tedesco.
